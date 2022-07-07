@@ -1,0 +1,34 @@
+|--------------|
+|----Resumo----|
+|--------------|
+
+O Vaga Nossa teve no total de 5 veículos;
+O montante arrecadado ao longo do dia foi de 216reais;
+A média do faturamento é de 43,2 reais;
+A média de idade dos veículos é de 21 anos
+|-------------------------------|
+|---- Cadastro dos veículos ----|
+|-------------------------------|
+
+|--------------------------------------|
+|    Cadastro do veículo mais velho    |
+|--------------------------------------|
+
+Placa: OPR5O82
+Modelo do veículo: Vectra
+Ano de fabricação: 1998
+Horas no estacionamento: 5
+Proprietário:Henrique
+|--------------------------------------|
+|    Cadastro do veículo mais novo     |
+|--------------------------------------|
+
+Placa: ARC5D97
+Modelo do veículo: Palio
+Ano de fabricação: 2010
+Horas no estacionamento: 7
+Proprietário:Pedro
+|--------------|
+|-----Fim------|
+|--------------|
+

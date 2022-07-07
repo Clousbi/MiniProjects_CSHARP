@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoLinguagens\TrabalhoLinguagens\bin\Debug\TrabalhoLinguagens.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoLinguagens\TrabalhoLinguagens\bin\Debug\TrabalhoLinguagens.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoLinguagens\TrabalhoLinguagens\bin\Debug\TrabalhoLinguagens.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoLinguagens\TrabalhoLinguagens\obj\Debug\TrabalhoLinguagens.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoLinguagens\TrabalhoLinguagens\obj\Debug\TrabalhoLinguagens.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoLinguagens\TrabalhoLinguagens\obj\Debug\TrabalhoLinguagens.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoLinguagens\TrabalhoLinguagens\obj\Debug\TrabalhoLinguagens.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoLinguagens\TrabalhoLinguagens\obj\Debug\TrabalhoLinguagens.pdb
