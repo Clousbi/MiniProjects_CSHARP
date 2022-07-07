@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\inverteVetor\inverteVetor\bin\Debug\inverteVetor.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\inverteVetor\inverteVetor\bin\Debug\inverteVetor.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\inverteVetor\inverteVetor\bin\Debug\inverteVetor.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\inverteVetor\inverteVetor\obj\Debug\inverteVetor.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\inverteVetor\inverteVetor\obj\Debug\inverteVetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\inverteVetor\inverteVetor\obj\Debug\inverteVetor.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\inverteVetor\inverteVetor\obj\Debug\inverteVetor.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\inverteVetor\inverteVetor\obj\Debug\inverteVetor.pdb

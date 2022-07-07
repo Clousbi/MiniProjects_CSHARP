@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\armazenamentoVetor\armazenamentoVetor\bin\Debug\armazenamentoVetor.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\armazenamentoVetor\armazenamentoVetor\bin\Debug\armazenamentoVetor.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\armazenamentoVetor\armazenamentoVetor\bin\Debug\armazenamentoVetor.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\armazenamentoVetor\armazenamentoVetor\obj\Debug\armazenamentoVetor.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\armazenamentoVetor\armazenamentoVetor\obj\Debug\armazenamentoVetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\armazenamentoVetor\armazenamentoVetor\obj\Debug\armazenamentoVetor.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\armazenamentoVetor\armazenamentoVetor\obj\Debug\armazenamentoVetor.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\armazenamentoVetor\armazenamentoVetor\obj\Debug\armazenamentoVetor.pdb

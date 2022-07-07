@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\fibonacci\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\fibonacci\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\fibonacci\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\fibonacci\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\fibonacci\fibonacci\obj\Debug\fibonacci.pdb
