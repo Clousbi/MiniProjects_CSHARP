@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\MatrizLinhaSoma\MatrizLinhaSoma\bin\Debug\MatrizLinhaSoma.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\MatrizLinhaSoma\MatrizLinhaSoma\bin\Debug\MatrizLinhaSoma.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\MatrizLinhaSoma\MatrizLinhaSoma\bin\Debug\MatrizLinhaSoma.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\MatrizLinhaSoma\MatrizLinhaSoma\obj\Debug\MatrizLinhaSoma.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\MatrizLinhaSoma\MatrizLinhaSoma\obj\Debug\MatrizLinhaSoma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\MatrizLinhaSoma\MatrizLinhaSoma\obj\Debug\MatrizLinhaSoma.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\MatrizLinhaSoma\MatrizLinhaSoma\obj\Debug\MatrizLinhaSoma.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\MatrizLinhaSoma\MatrizLinhaSoma\obj\Debug\MatrizLinhaSoma.pdb

@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\PostoSaúde\PostoSaúde\bin\Debug\PostoSaúde.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\PostoSaúde\PostoSaúde\bin\Debug\PostoSaúde.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\PostoSaúde\PostoSaúde\bin\Debug\PostoSaúde.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\PostoSaúde\PostoSaúde\obj\Debug\PostoSaúde.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\PostoSaúde\PostoSaúde\obj\Debug\PostoSaúde.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\PostoSaúde\PostoSaúde\obj\Debug\PostoSaúde.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\PostoSaúde\PostoSaúde\obj\Debug\PostoSaúde.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\PostoSaúde\PostoSaúde\obj\Debug\PostoSaúde.pdb

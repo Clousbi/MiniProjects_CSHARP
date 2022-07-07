@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoIntermediario\TrabalhoIntermediario\bin\Debug\TrabalhoIntermediario.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoIntermediario\TrabalhoIntermediario\bin\Debug\TrabalhoIntermediario.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoIntermediario\TrabalhoIntermediario\bin\Debug\TrabalhoIntermediario.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoIntermediario\TrabalhoIntermediario\obj\Debug\TrabalhoIntermediario.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoIntermediario\TrabalhoIntermediario\obj\Debug\TrabalhoIntermediario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoIntermediario\TrabalhoIntermediario\obj\Debug\TrabalhoIntermediario.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoIntermediario\TrabalhoIntermediario\obj\Debug\TrabalhoIntermediario.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\TrabalhoIntermediario\TrabalhoIntermediario\obj\Debug\TrabalhoIntermediario.pdb

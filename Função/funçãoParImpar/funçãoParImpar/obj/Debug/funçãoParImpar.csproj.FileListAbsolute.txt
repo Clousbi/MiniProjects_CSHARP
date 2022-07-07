@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoParImpar\funçãoParImpar\bin\Debug\funçãoParImpar.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoParImpar\funçãoParImpar\bin\Debug\funçãoParImpar.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoParImpar\funçãoParImpar\bin\Debug\funçãoParImpar.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoParImpar\funçãoParImpar\obj\Debug\funçãoParImpar.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoParImpar\funçãoParImpar\obj\Debug\funçãoParImpar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoParImpar\funçãoParImpar\obj\Debug\funçãoParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoParImpar\funçãoParImpar\obj\Debug\funçãoParImpar.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoParImpar\funçãoParImpar\obj\Debug\funçãoParImpar.pdb

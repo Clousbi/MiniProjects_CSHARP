@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\vetorParImpar\vetorParImpar\bin\Debug\vetorParImpar.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\vetorParImpar\vetorParImpar\bin\Debug\vetorParImpar.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\vetorParImpar\vetorParImpar\bin\Debug\vetorParImpar.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\vetorParImpar\vetorParImpar\obj\Debug\vetorParImpar.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\vetorParImpar\vetorParImpar\obj\Debug\vetorParImpar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\vetorParImpar\vetorParImpar\obj\Debug\vetorParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\vetorParImpar\vetorParImpar\obj\Debug\vetorParImpar.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\vetorParImpar\vetorParImpar\obj\Debug\vetorParImpar.pdb

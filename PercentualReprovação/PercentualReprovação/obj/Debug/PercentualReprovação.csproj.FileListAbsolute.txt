@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\PercentualReprovação\PercentualReprovação\bin\Debug\PercentualReprovação.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\PercentualReprovação\PercentualReprovação\bin\Debug\PercentualReprovação.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\PercentualReprovação\PercentualReprovação\bin\Debug\PercentualReprovação.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\PercentualReprovação\PercentualReprovação\obj\Debug\PercentualReprovação.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\PercentualReprovação\PercentualReprovação\obj\Debug\PercentualReprovação.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\PercentualReprovação\PercentualReprovação\obj\Debug\PercentualReprovação.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\PercentualReprovação\PercentualReprovação\obj\Debug\PercentualReprovação.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\AULA\PercentualReprovação\PercentualReprovação\obj\Debug\PercentualReprovação.pdb

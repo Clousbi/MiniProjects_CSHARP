@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoPositivoNegativo\funçãoPositivoNegativo\bin\Debug\funçãoPositivoNegativo.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoPositivoNegativo\funçãoPositivoNegativo\bin\Debug\funçãoPositivoNegativo.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoPositivoNegativo\funçãoPositivoNegativo\bin\Debug\funçãoPositivoNegativo.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoPositivoNegativo\funçãoPositivoNegativo\obj\Debug\funçãoPositivoNegativo.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoPositivoNegativo\funçãoPositivoNegativo\obj\Debug\funçãoPositivoNegativo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoPositivoNegativo\funçãoPositivoNegativo\obj\Debug\funçãoPositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoPositivoNegativo\funçãoPositivoNegativo\obj\Debug\funçãoPositivoNegativo.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\EXERCICIOS\funçãoPositivoNegativo\funçãoPositivoNegativo\obj\Debug\funçãoPositivoNegativo.pdb
