@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\PESSOAL\teste\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\PESSOAL\teste\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\PESSOAL\teste\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\PESSOAL\teste\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\PESSOAL\teste\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\PESSOAL\teste\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\PESSOAL\teste\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\PESSOAL\teste\Teste\Teste\obj\Debug\Teste.pdb

@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPrimoWhile\NumeroPrimoWhile\bin\Debug\NumeroPrimoWhile.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPrimoWhile\NumeroPrimoWhile\bin\Debug\NumeroPrimoWhile.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPrimoWhile\NumeroPrimoWhile\bin\Debug\NumeroPrimoWhile.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPrimoWhile\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPrimoWhile\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPrimoWhile\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPrimoWhile\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPrimoWhile\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.pdb
