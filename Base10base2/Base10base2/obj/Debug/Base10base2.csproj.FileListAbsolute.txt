@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\Base10base2\Base10base2\bin\Debug\Base10base2.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\Base10base2\Base10base2\bin\Debug\Base10base2.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\Base10base2\Base10base2\bin\Debug\Base10base2.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\Base10base2\Base10base2\obj\Debug\Base10base2.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\Base10base2\Base10base2\obj\Debug\Base10base2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\Base10base2\Base10base2\obj\Debug\Base10base2.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\Base10base2\Base10base2\obj\Debug\Base10base2.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\Base10base2\Base10base2\obj\Debug\Base10base2.pdb

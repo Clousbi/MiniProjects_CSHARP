@@ -1,0 +1,8 @@
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPerfeito\NumeroPerfeito\bin\Debug\NumeroPerfeito.exe.config
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPerfeito\NumeroPerfeito\bin\Debug\NumeroPerfeito.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPerfeito\NumeroPerfeito\bin\Debug\NumeroPerfeito.pdb
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPerfeito\NumeroPerfeito\obj\Debug\NumeroPerfeito.csproj.AssemblyReference.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPerfeito\NumeroPerfeito\obj\Debug\NumeroPerfeito.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPerfeito\NumeroPerfeito\obj\Debug\NumeroPerfeito.csproj.CoreCompileInputs.cache
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPerfeito\NumeroPerfeito\obj\Debug\NumeroPerfeito.exe
+C:\Users\Bianc\OneDrive\Documentos\CÓDIGOS 2022\C#\FACULDADE\REVISÃO\NumeroPerfeito\NumeroPerfeito\obj\Debug\NumeroPerfeito.pdb
